@@ -7,4 +7,7 @@
 * Execute `plot_my_stuff()`
 * Check that the plot matches .....
 
-* 
+## Test 3
+ * It is just a push test
+ * It is just a push test
+
